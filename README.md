@@ -4,7 +4,7 @@
 - 👨‍💻 I like coding and learning new things!
 - 🏄🏻‍♂️ Hit me up if you want to collaborate
 - 💯 Reach me at theosmejl@gmail.com
-- 👾 Check out my portfolio @ theossa.com
+- 👾 Check out my [portfolio](https://theossa.com/)
     
 <!--
 **Kalibercoder/Kalibercoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
