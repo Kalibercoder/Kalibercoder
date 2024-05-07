@@ -1,4 +1,4 @@
-### Hi there 👋
+
 - 🖐 Hey I am Theo 
 - 🌁 I am currently studying @ITHS in Stockholm 
 - 👨‍💻 I like coding and learning new things!
