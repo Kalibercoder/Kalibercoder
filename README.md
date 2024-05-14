@@ -1,7 +1,7 @@
 
 - 🖐 Hey, I am Theo 
 - 🌁 I am currently studying @[iths](https://www.iths.se/) in Stockholm 
-- 👨‍💻 I like to code and learning new things!
+- 👨‍💻 I like to code and learn new things!
 - 🏄🏻‍♂️ Hit me up if you want to collaborate
 - 💯 Reach me at theosmejl@gmail.com
 - 👾 Check out my [portfolio](https://theossa.com/)
